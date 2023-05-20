@@ -114,4 +114,4 @@ jobs:
         with:
           context: ./nginx/
           push: true
-          tags: anstane/taski_gateway:latest
+          tags: anstane/gateway:latest
